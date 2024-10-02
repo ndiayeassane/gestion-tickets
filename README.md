@@ -1,8 +1,8 @@
 # Gestion Tickets
 
- Une application de gestion de tickets simple utilisant Java et Spring Framework.
+ Une application de gestion de tickets avec Java et Spring Framework.
 
- ## Technologie
+ ## Technologies
 
 java 17 et Spring boot 3.3.4 et Maven
 Database H2.
@@ -10,7 +10,7 @@ Database H2.
  
  ## Installation
 
- Les dependences seront automatiquement telecharger une fois ouvert sur IDE (Intllij ou STS)
+ Les dependences seront automatiquement telechargees une fois le projet ouvert sur un IDE (Intllij ou STS)
 
  ou utiliser la commande :
 
@@ -30,7 +30,7 @@ JUnit et Mockito.
 
 OpenAPI
 
-Voici le lien en dessous:
+Voici le lien ci- dessous:
 
 ```bash
 http://localhost:8080/swagger-ui/index.html
